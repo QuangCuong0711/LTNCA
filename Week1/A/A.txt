@@ -1,0 +1,16 @@
+1. bool isA = ( 90<= grade && grade <= 100 ) ;
+2. 0
+3. 2^32 vượt qua giá trị cao nhất của int
+4. false
+5. lỗi
+6. lỗi biên dịch , nếu cho ra ngoài sẽ không bị lỗi biến x.
+7. 0 
+   0.75
+   0.75
+   0.75
+8. Lỗi khai báo biến đã được khai báo
+9. biến arg1 ="A"
+10. biến arg1 = -1
+11. chưa ép kiểu cho phép 5/9
+12. Here
+
