@@ -1,0 +1,26 @@
+1.iii
+- p kiểu int* không thể gán cho int 
+2.iii
+- địa chỉ của 2 giá trị liên tiếp của mảng cách nhau 1
+3.iii
+- Có thể khai báo xong mới cung cấp 
+4.iii
+- Truyền mảng động cho hàm ta có thể truyền kiểu tham chiếu, địa chỉ, con trỏ
+5.ii,iii
+- Lỗi kiểu nhận vào của hàm
+6.ii,iii
+- *sPtr và number khác kiểu dữ liệu không thể gán cho nhau , number kiểu int còn aPtr là địa chỉ
+7.iii
+- *(p+i) là giá trị tại vị trí thứ i+1 của mảng động ( con trỏ *p)
+8.iv
+- gán *p1 có giá trị bằng a, sau đó cho *p2 trỏ tới địa chỉ của a , thay đổi a làm thay đổi *p2
+9.ii
+- hàm c chỉ nhận tham trị , hàm a tăng giá trị của con trỏ lên 1 rồi mới truy cập vào , hàm b làm thay đổi giá trị con trỏ lên 1
+10.iv
+- lệnh p1 = p2 gán địa chỉ p1 và p2 trỏ tới cùng 1 địa chỉ , nên *p1 và *p2 cùng thay đổi giá trị
+11.iii
+- *p1 trỏ tới địa chỉ p2 , *p2 trỏ tới địa chỉ p3, *p3 trỏ tới địa chỉ giống với *p1
+12.iii
+- *(p+i) là giá trị tại vị trí thứ i+1 của mảng động ( con trỏ *p)
+13.iii
+- (p+i) là địa trỉ tương ứng của giá trị p[i] của mảng động ( con trỏ *p )

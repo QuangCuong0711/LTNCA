@@ -1,0 +1,26 @@
+1.
+*p3 = B, p3 = 0x5678
+*p3 = A, p3 = 0x1234
+*p1 = B, p1 = 0x5678
+2.iv
+Cho các lệnh sau.
+    int *p;
+    int i;
+    int k;
+    i = 4;
+    k = i;
+    p = &i;
+
+(Những) lệnh nào trong số các lệnh dưới đây sẽ gán cho i giá trị 5?
+   i.    k = 5;
+   ii.  *k = 5;
+   iii.  p = 5;
+   iv.  *p = 5; 
+
+
+3.
+Giải thích lỗi sau:
+    char c = ‘C';
+    double *p = &c;
+- biến con trỏ *p có kiểu double* không thể trỏ tới biến c có kiểu dữ liệu char
+
